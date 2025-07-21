@@ -1,8 +1,7 @@
 # llm-research-method-
 
-## Useful resources for open source LLM models
+## منابع مفید برای مدل‌های LLM متن‌باز
 
 - [Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)  
- One of the most complete lists of open source models with MMLU, ARC, HellaSwag, and up-to-date benchmarks.
-
+یکی از کامل‌ترین لیست‌های مدل‌های متن‌باز با MMLU، ARC، HellaSwag و بنچمارک‌های به‌روز.
 
